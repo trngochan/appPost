@@ -1,5 +1,5 @@
 import Header from "./components/header/header.js";
-import "./app.css";
+import "./App.css";
 import { useState } from "react";
 import EditPage from "./components/edit/editPage.js";
 import { useSelector } from "react-redux";
